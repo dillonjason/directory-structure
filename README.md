@@ -19,3 +19,13 @@ Every app specific feature will be a directory with an index file. This director
 A consistent example of this is that your index file's test will be next to the index file itself.
 
 The reasoning for this is to avoid having developers search for related content, instead everything for the feature is in the same location.
+
+# App Specific Files and Folders
+
+Throughout this guide there will be files and folders prefixed with `app_` this is your indication that these should be custom named to your apps specific need.
+
+Generally you will find that your app will have multiple of these files/folders in their parent directory.
+
+If a file or folder does not begin with `app_` your are not meant to change this name.
+
+Some files will be optional and this will be explained in the markdown content.
