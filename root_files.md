@@ -4,7 +4,7 @@ Primarily the project root should have the following file and directories.
 
 ## Config
 
-This includes both a config directory as well as all neccesary rc/json/config.js type files needed for your application to run.
+This includes both a config directory as well as all necessary rc/json/config.js type files needed for your application to run.
 
 Traditionaly this will mean `.babelrc`, `postcss.json`, `.ci-config`, `.gitignore`, etc.
 
@@ -16,4 +16,4 @@ While this should never be in your repo your output directory will be in the roo
 
 ## package.json/lock file
 
-This is pretty self explanitory, but your package.json will be in the root as well.
+This is pretty self explanatory, but your package.json will be in the root as well.
